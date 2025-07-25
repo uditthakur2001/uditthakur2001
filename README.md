@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Raj Singh</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Developer;React.js+%7C+Python+%7C+PostgreSQL;Open+to+Full-Stack+roles;Let’s+build+cool+stuff+🚀&center=true&width=500&height=45&color=58a6ff&pause=1000&vCenter=true" alt="Typing SVG" />
-</p>
 <h3 align="center">Aspiring Software Developer | React.js | Python | PostgreSQL</h3>
 
 <p align="center">
@@ -64,13 +61,11 @@ Here are a few of my highlighted works:
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:uditthakur2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:uditrajsingh815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/uditthakur2001/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
-![Visitor Badge](https://komarev.com/ghpvc/?username=uditthakur2001&style=flat-square)
 
----
 _Thanks for visiting my profile! ⭐ Feel free to explore my projects or connect with me._
 
