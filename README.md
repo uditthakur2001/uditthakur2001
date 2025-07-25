@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Udit Raj Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Developer;React.js+%7C+Python+%7C+PostgreSQL;Open+to+Full-Stack+roles;Let’s+build+cool+stuff+🚀&center=true&width=500&height=45&color=58a6ff&pause=1000&vCenter=true" alt="Typing SVG" />
+</p>
 <h3 align="center">Aspiring Software Developer | React.js | Python | PostgreSQL</h3>
 
 <p align="center">
@@ -18,7 +22,7 @@
 - 🌱 Currently learning **Java**, **Redux Toolkit**, and **advanced backend concepts**
 - 💬 Ask me about **React.js, Python, Streamlit, PostgreSQL**
 - 💼 Open to **Frontend** and **Full-Stack Developer** roles in fast-paced environments
-- 📫 Reach me at: `uditthakur2001@gmail.com`
+- 📫 Reach me at: `uditrajsingh815@gmail.com`
 
 ---
 
@@ -42,8 +46,8 @@
 
 Here are a few of my highlighted works:
 
-- 💬 [**ChatDocs**](https://chatdocs-app.streamlit.app/) — Document Q&A assistant using Streamlit + FAISS + Gemini AI  
-- 📁 [**Project Management System**](https://github.com/uditthakur2001) — Built with React, Redux, and file-based storage (no database)
+- 💬 [**ChatDocs**](https://chatdocs-ai.streamlit.app/) — Document Q&A assistant using Streamlit + FAISS + Gemini AI  
+- 📁 [**Project Management System**](https://project-management-udit.netlify.app/) — Built with React, Redux, and file-based storage (no database)
 
 ---
 
@@ -65,7 +69,7 @@ Here are a few of my highlighted works:
 </p>
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=uditthakur2001)
+![Visitor Badge](https://komarev.com/ghpvc/?username=uditthakur2001&style=flat-square)
 
 ---
 _Thanks for visiting my profile! ⭐ Feel free to explore my projects or connect with me._
