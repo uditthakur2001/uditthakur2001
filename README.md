@@ -50,11 +50,16 @@ Here are a few of my highlighted works:
 
 ### 📊 GitHub Stats
 
+<h2 align="center">📈 GitHub Stats & Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uditthakur2001&show_icons=true&theme=tokyonight" alt="Udit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uditthakur2001&show_icons=true&theme=react&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditthakur2001&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditthakur2001&theme=react&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditthakur2001&layout=compact&theme=react&hide_border=true" />
 </p>
+
 
 ---
 
